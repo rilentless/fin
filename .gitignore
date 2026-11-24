@@ -1,0 +1,11 @@
+# IDE or Editor Specific
+.idea/
+.vscode/
+*.iml
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
